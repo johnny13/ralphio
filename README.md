@@ -4,11 +4,11 @@ hui - Ralphio Plugin
 Let DJ Ralphio drop some fresh YouTube Beats on your audience.    
 This Plugin creates a youtube playlist based on video ids. Very simple to use, awesome results.    
     
-    //add the plugin repo if you have not already
-    git clone https://github.com/johnny13/hui-plugins.git
+    //add the plugin repo if you have not already    
+    git clone https://github.com/johnny13/hui-plugins.git    
     
-    //initialize ralphio plugin
-    git submodule init ralphio
+    //initialize ralphio plugin   
+    git submodule init ralphio    
     
 
 ## More Info & Documentation 
